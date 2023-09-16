@@ -1,0 +1,11 @@
+# Exclusions:
+
+/WIP
+/Art
+
+
+*.kra
+*.*~
+
+
+# Inclusions:
