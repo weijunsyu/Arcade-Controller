@@ -74,8 +74,16 @@
 - Files contain a mix of imperial and metric units! (Inches/Millimeter)
 - JLF mounting plate can be countersunk for M3 screws; original plate is 1.5mm thick.
 
+## Layouts
+- Various layouts for button placements.
+- Contains folders for different types of layouts:
+    - Master Layouts: layouts with all lines for various iterations of which need to be modified prior to use.
+    - Partial Layouts: layouts containing only partial cutouts, mainly for use when designing custom layouts not iterating off any master layout.
+    - Finished Layouts: layouts that are finished and ready-to-cut. Contains various iterations of pre-modified master layouts and some unique layouts.
+- Subfolders further segregate based on style of action button placement such as sega2P, viewlix, noir, etc.
+
 ## References
-- Collection of reference files such as technical drawings and CAD files for various layouts, etc.
+- Collection of reference files such as technical drawings and CAD files.
 
 # Technical
 - Neutrik:
