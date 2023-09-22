@@ -3875,28 +3875,6 @@ ByLayer
 100
 AcDbCircle
  10
-1.377980342235156
- 20
--1.839482843841775
- 40
-0.47637795
-  0
-CIRCLE
-  5
-82
-100
-AcDbEntity
-  8
-0
-  6
-ByLayer
- 62
-  256
-370
-   -1
-100
-AcDbCircle
- 10
 2.231293906237996e-16
  20
 -1.915354277
@@ -3905,29 +3883,7 @@ AcDbCircle
   0
 CIRCLE
   5
-83
-100
-AcDbEntity
-  8
-0
-  6
-ByLayer
- 62
-  256
-370
-   -1
-100
-AcDbCircle
- 10
--3.983535157507784
- 20
-0.1540596157965543
- 40
-0.59547244
-  0
-CIRCLE
-  5
-84
+82
 100
 AcDbEntity
   8
@@ -3949,7 +3905,7 @@ AcDbCircle
   0
 CIRCLE
   5
-85
+83
 100
 AcDbEntity
   8
@@ -3971,7 +3927,7 @@ AcDbCircle
   0
 CIRCLE
   5
-86
+84
 100
 AcDbEntity
   8
@@ -4023,7 +3979,7 @@ AcDbDictionary
   0
 PLOTSETTINGS
   5
-87
+85
 100
 AcDbPlotSettings
   6

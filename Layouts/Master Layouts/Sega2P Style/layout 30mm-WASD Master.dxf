@@ -1121,9 +1121,9 @@ AcDbViewportTableRecord
  21
 1
  12
-5.51382153280829
+5.513821532808291
  22
-2.815244664865318
+2.815244664865319
  13
 0
  23
@@ -2891,28 +2891,6 @@ ByLayer
 100
 AcDbCircle
  10
-2.15365136103862
- 20
--1.744610962458163
- 40
-0.47637795
-  0
-CIRCLE
-  5
-58
-100
-AcDbEntity
-  8
-0
-  6
-ByLayer
- 62
-  256
-370
-   -1
-100
-AcDbCircle
- 10
 1.243527846216043
  20
 2.081434818509382
@@ -2921,7 +2899,7 @@ AcDbCircle
   0
 CIRCLE
   5
-59
+58
 100
 AcDbEntity
   8
@@ -2943,7 +2921,7 @@ AcDbCircle
   0
 CIRCLE
   5
-5A
+59
 100
 AcDbEntity
   8
@@ -2965,7 +2943,7 @@ AcDbCircle
   0
 CIRCLE
   5
-5B
+5A
 100
 AcDbEntity
   8
@@ -2987,7 +2965,7 @@ AcDbCircle
   0
 CIRCLE
   5
-5C
+5B
 100
 AcDbEntity
   8
@@ -3009,7 +2987,7 @@ AcDbCircle
   0
 CIRCLE
   5
-5D
+5C
 100
 AcDbEntity
   8
@@ -3031,7 +3009,7 @@ AcDbCircle
   0
 CIRCLE
   5
-5E
+5D
 100
 AcDbEntity
   8
@@ -3053,7 +3031,7 @@ AcDbCircle
   0
 LWPOLYLINE
   5
-5F
+5E
 100
 AcDbEntity
   8
@@ -3091,7 +3069,7 @@ AcDbPolyline
   0
 LWPOLYLINE
   5
-60
+5F
 100
 AcDbEntity
   8
@@ -3129,7 +3107,7 @@ AcDbPolyline
   0
 LWPOLYLINE
   5
-61
+60
 100
 AcDbEntity
   8
@@ -3167,7 +3145,7 @@ AcDbPolyline
   0
 LWPOLYLINE
   5
-62
+61
 100
 AcDbEntity
   8
@@ -3205,7 +3183,7 @@ AcDbPolyline
   0
 LWPOLYLINE
   5
-63
+62
 100
 AcDbEntity
   8
@@ -3233,11 +3211,11 @@ AcDbPolyline
  20
 -0.1193798648126112
  42
--0.414213562373098
+-0.414213562373097
  10
 -3.733014651453429
  20
--0.04697636914516595
+-0.04697636914516598
  10
 -3.62446587665077
  20
@@ -3281,9 +3259,9 @@ AcDbPolyline
  10
 -2.12555016352203
  20
-0.4312633683881865
+0.4312633683881864
  42
-0.4142135623730874
+0.4142135623730849
  10
 -2.074852690062953
  20
@@ -3343,7 +3321,7 @@ AcDbDictionary
   0
 PLOTSETTINGS
   5
-64
+63
 100
 AcDbPlotSettings
   6
