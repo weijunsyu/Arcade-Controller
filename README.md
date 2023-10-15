@@ -13,8 +13,8 @@
 - Note: Not all designs here have been tested, some builds in here may have CAD files that require post-processing and further machining that may not always be documented.
 
 ## Metal Arcade Controller
-- Dimensions: 16" x 8" x (2.063 + acrylic panel thickness)"
-- Designed to be assembed with just M4 machine screws (10 screws total).
+- Dimensions: 15" x 8" x (2.063 + acrylic panel thickness)"
+- Designed to be assembed with just M4 machine screws (18 screws total).
 - Uses a standard Neutrik USB A-B connector.
 - There are no PCB mount points for compatibility; use adhesive mounting hardware.
 1. **Acrylic Top Panels:**
@@ -25,12 +25,19 @@
     - Dashed lines denote bend lines. Blue for down, and red for up.
     - Bottom half requires the 4 smaller M4 holes (d=0.164") to have flush mounted threaded nuts be inserted.
     - Bottom half has 2 versions: One with a stick cuttout for inserting a screwdriver into the back without opening the box and one without.
+        - The stick cutout needs to be lined up with the center of the stick. By defaut the stick cutout is lined up with the supplied layouts.
     - Top half files are located within the subfolder "chassis_TopHalf (.063in)".
-    - Top half requires the 6 smaller M4 holes (d=0.164") to have flush mounted threaded nuts be inserted.
+    - Top half requires the 14 smaller M4 holes (d=0.17") to have flush mounted threaded nuts be inserted.
+3. **Front Panels:**
+    - Modular front panels.
+    - Does not need to be structural.
+    - Optional but recommended.
 3. **Layout Template Images:**
     - Image files for doing custom art prints.
     - Act as templates for cutting and lining up prints.
     - 300 dpi image.
+4. **Modular Top Panels:**
+    - Structural top panels for use with the modular top chassis.
 
 ## Industrial Arcade Controller
 *SPECIAL CONSIDERATIONS: Designed to be very modular; however, assembly requires 6 custom support blocks of which are difficult to manufacture. Support blocks are easily the most costly component in this build. These support blocks are essentially the "core" of the entire build.*
