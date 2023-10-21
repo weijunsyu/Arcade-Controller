@@ -76,6 +76,11 @@
     - A STL file is provided for 3D printing that is designed to be screwed directly into. Will need modification if M4 inserts are desired.
     - Consider using wooden blocks if manufacturing costs are too high.
 
+## RP2040-Zero Arcade Controller
+- Controller using keyboard switches and a custom PCB.
+- Requires soldering as well as a PR2040-Zero microcontroller.
+- The gerber files for the pcb are located in the production folder.
+
 ## Parts
 - Various arcade parts.
 - Files contain a mix of imperial and metric units! (Inches/Millimeter)
