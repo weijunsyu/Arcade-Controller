@@ -13,6 +13,7 @@
 - Note: Not all designs here have been tested, some builds in here may have CAD files that require post-processing and further machining that may not always be documented.
 
 ## Metal Arcade Controller
+- NOTE: Current iteration is untested!
 - Dimensions: 15" x 8" x (2.063 + acrylic panel thickness)"
 - Designed to be assembed with just M4 machine screws (18 screws total).
 - Uses a standard Neutrik USB A-B connector.
@@ -77,6 +78,7 @@
     - Consider using wooden blocks if manufacturing costs are too high.
 
 ## RP2040-Zero Arcade Controller
+- NOTE: Current iteration is untested!
 - Controller using keyboard switches and a custom PCB.
 - Requires soldering as well as a PR2040-Zero microcontroller.
 - The gerber files for the pcb are located in the production folder.
