@@ -14,16 +14,15 @@
 
 ## Metal Arcade Controller
 - NOTE: Current iteration is untested!
-- Dimensions: 15" x 8" x (2.063 + acrylic panel thickness)"
+- Dimensions: 15" x 8" x (2.063 + top and acrylic panel thickness)"
 - Designed to be assembed with just M4 machine screws (18 screws total).
 - Uses a standard Neutrik USB A-B connector.
-- There are no PCB mount points for compatibility; use adhesive mounting hardware.
 1. **Acrylic Top Panels:**
     - Optional acrylic top panels
 1. **Chassis:**
     - Required to be constructed from 0.063" thick sheet metal.
     - Recommended material: 5052 Aluminum.
-    - Dashed lines denote bend lines. Blue for down, and red for up.
+    - Dashed lines denote bend lines. All bends are 90 degrees. Blue for down, and red for up.
     - Bottom half requires the 4 smaller M4 holes (d=0.164") to have flush mounted threaded nuts be inserted.
     - Bottom half has 2 versions: One with a stick cuttout for inserting a screwdriver into the back without opening the box and one without.
         - The stick cutout needs to be lined up with the center of the stick. By defaut the stick cutout is lined up with the supplied layouts.
@@ -81,6 +80,7 @@
 - NOTE: Current iteration is untested!
 - Controller using keyboard switches and a custom PCB.
 - Requires soldering as well as a PR2040-Zero microcontroller.
+- The RP2040-Zero is double-sided! Requires the microcontroller to be raised above the pcb. Cannot be surface mounted!
 - The gerber files for the pcb are located in the production folder.
 
 ## Parts
@@ -100,6 +100,8 @@
 - Collection of reference files such as technical drawings and CAD files.
 
 # Technical
+- MX-style keyboard switches:
+    - plate thickness: 1.5mm +/- 0.1mm (0.059" +/- 0.004")
 - Neutrik:
     - centre cutout: d=0.935" r=0.4675"
     - mounting holes: d=0.13" r=0.065"
