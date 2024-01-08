@@ -44,12 +44,11 @@
 - Dimensions: 14.5" x 9" x (2 + top and bottom panel thickness)" Note: If side/front/back panels are significantly thick, outside dimensions may not be accurate.
 - Can be easily modifed for any height, length, material, etc.
 - Designed to be assembled with 6 support blocks and M4 machine screws (26 screws total). Note, 4 support blocks can be used (omitting the 2 central supports).
-- Most mounting holes are sized for a VERY close fit (d=4.04mm for M4); relax the tolerences if not using a laser to do manufacturing. Non-metal panels should always be modified to have larger tolerences (recommend d=4.5mm for M4).
-- If using the front panel with buttons, REMOVE the top row of buttons/toggle cutouts from the top panel!
+- Most mounting holes are sized for a VERY close fit (d=4.04mm for M4); relax the tolerences if not using cnc to do manufacturing.
+- If using universal panels with button cutouts, take note of any overlapping buttons on the top panel!
 - Uses a standard Neutrik USB A-B connector.
 - There are no PCB mount points for compatibility; use adhesive mounting hardware.
 1. **Accessories:**
-    - Various accessories such as handles that can be used.
     - NOTE: Some accessories require specific panels to be chosen!
     - Neutrik Covers:
         - The 1x cover is universal and fits any Neutrik cutout. (Identical to the cover found in the Parts folder.)
@@ -66,7 +65,7 @@
 4. **Universal Panels:**
     - These are the shared panels for the sides, front, bottom, and back.
     - The side/front/back panels have various versions with extra button cutouts, extra Neutrik cutouts, and combined cutouts.
-    - Default panels are 2" tall to accommodate japanese screwbuttons and quick disconnects regardless of top panel thickness.
+    - Panels are 2" tall to accommodate japanese screwbuttons and quick disconnects regardless of top panel thickness.
     - The bottom panel has 2 versions: One with a stick cuttout for inserting a screwdriver into the back without opening the box and one without.
 5. **Support Blocks:**
     - Support blocks can be machined from 1/2" square stock.
@@ -74,14 +73,7 @@
     - If machining supports by hand or if looser tolerences are desired, consider widening all panel mounting holes (M4) to d=4.5mm or even d=4.8mm to accommodate imperfect machining on support blocks.
     - STEP file and technical drawing is provided.
     - A STL file is provided for 3D printing that is designed to be screwed directly into. Will need modification if M4 inserts are desired.
-    - Consider using wooden blocks if manufacturing costs are too high.
-
-## RP2040-Zero Arcade Controller
-- NOTE: Current iteration is untested!
-- Controller using keyboard switches and a custom PCB.
-- Requires soldering as well as a PR2040-Zero microcontroller.
-- The RP2040-Zero is double-sided! Requires the microcontroller to be raised above the pcb. Cannot be surface mounted!
-- The gerber files for the pcb are located in the production folder.
+    - Consider using wooden blocks and self tapping wood screws if manufacturing costs are too high.
 
 ## Parts
 - Various arcade parts.
@@ -102,6 +94,8 @@
 # Technical
 - MX-style keyboard switches:
     - plate thickness: 1.5mm +/- 0.1mm (0.059" +/- 0.004")
+    - 30mm caps: d=1"
+    - 24mm caps: d=0.85"
 - Neutrik:
     - centre cutout: d=0.935" r=0.4675"
     - mounting holes: d=0.13" r=0.065"
