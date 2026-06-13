@@ -4,5 +4,5 @@ Gates:
 - Prefered material is cnc Delrin (POM, acetal)
 
 - Tested Materials; OK:
-    - JLC3DP SLA JLC black. Prefer not to use SLA resin due to toxicity concerns.
+    - JLC3DP SLA JLC black.
     - JLC3DP MJF nylon natural grey.
